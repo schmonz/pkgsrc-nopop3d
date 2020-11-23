@@ -1,4 +1,4 @@
-/* $NetBSD */
+/* $NetBSD$ */
 
 #include <stdlib.h>
 #include "commands.h"
